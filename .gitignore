@@ -1,0 +1,8 @@
+# MacOS rendering files
+.DS_store
+
+/uni_modules/
+
+#编译文件
+
+/unpackage/
